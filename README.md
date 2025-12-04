@@ -46,7 +46,7 @@ C#, ASP.NET Core, PHP, Laravel, Python, React, JavaScript, HTML, CSS, SQL (MS SQ
 ![LWC](https://img.shields.io/badge/LWC-0B5CAB?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Salesforce DX](https://img.shields.io/badge/Salesforce%20DX-0B5CAB?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Flows](https://img.shields.io/badge/Flow%20Builder-0B5CAB?style=for-the-badge&logo=salesforce&logoColor=white)
-![SOQL](https://img.shields.io/badge/SOQL-0B5CAB?style=for-the-badge&logo=salesforce&logoColor=white)
+![SOQL&SOSL](https://img.shields.io/badge/SOQL-0B5CAB?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ### Programming
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
