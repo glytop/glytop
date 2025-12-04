@@ -55,6 +55,7 @@ Russian (native), English (B1), Polish (B1).
 ---
 
 ## Contact
-- Email: `<your-email>`  
-- LinkedIn: `<your-link>`  
+- Email: `romanetce.web.dev@gmail.com`
+- Work Email `m_romanets@twistellar.com`
+- LinkedIn: `https://www.linkedin.com/in/maksimilian-romanets/`  
 
