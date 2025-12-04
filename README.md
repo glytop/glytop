@@ -24,8 +24,8 @@ Site architecture, custom LWC components, guest/partner user access models, site
 **DevOps & Tools:**  
 Salesforce DX, Scratch Orgs, Git, GitHub Actions, Salesforce Inspector, Workbench, VS Code, Jira.
 
-**Other Technologies (support level):**  
-C#, ASP.NET Core, PHP, Laravel, JavaScript, HTML, CSS, SQL (MS SQL, PostgreSQL, MySQL), Linux.
+**Other Technologies:**  
+C#, ASP.NET Core, PHP, Laravel, Python, JavaScript, HTML, CSS, SQL (MS SQL, PostgreSQL, MySQL), Linux.
 
 **Languages:**  
 Russian (native), English (B1), Polish (B1).
