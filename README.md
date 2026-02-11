@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Maks — Salesforce / Full-stack Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](<your-link>)
-[![Email](https://img.shields.io/badge/Email-Contact-yellow)](mailto:<your-email>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/maksimilian-romanets/)
+[![Email](https://img.shields.io/badge/Email-Contact-yellow)](mailto:m_romanets@twistellar.com)
 [![Location](https://img.shields.io/badge/Location-Poland-lightgrey)]()
 
 ---
@@ -11,31 +11,6 @@ Salesforce Developer with strong expertise in Experience Cloud and enterprise-le
 I build scalable solutions using Apex, LWC, Flows, data modeling, and integrations (REST/SOAP).  
 Experience in full-cycle development: architecture, configuration, clean code, automation, debugging, and performance optimization.  
 Currently developing Salesforce solutions at Twistellar.
-
----
-
-## Core Skills
-**Salesforce Platform:**  
-Apex, Test Classes, Async Apex, LWC, Visualforce, SOQL & SOSL, Flow Builder, Platform Events, Integration Patterns, Debugging, Apex Callouts, REST/SOAP APIs, Batch/Queueable/Future, Platform Security Model, Sharing & Visibility, Data Modeling, CMDT, CS, SLDS.
-
-**Experience Cloud:**  
-Site architecture, custom LWC components, guest/partner user access models, site performance tuning, data exposure control, custom navigation, personalized content.
-
-**DevOps & Tools:**  
-Salesforce DX, Scratch Orgs, Git, GitHub Actions, Salesforce Inspector, Workbench, VS Code, Jira.
-
-**Other Technologies:**  
-C#, ASP.NET Core, PHP, Laravel, Python, React, JavaScript, HTML, CSS, SQL (MS SQL, PostgreSQL, MySQL), Linux.
-
----
-
-## What I Focus On
-- Building secure and extendable Experience Cloud portals  
-- Developing clean, testable Apex and LWC code  
-- Designing reliable integrations and async processing  
-- Automating processes using Flows with proper governance  
-- Improving org performance through optimized queries & architecture  
-- Implementing best practices for DX, Git workflow, and CI/CD  
 
 ---
 
